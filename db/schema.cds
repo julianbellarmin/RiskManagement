@@ -1,6 +1,6 @@
 namespace riskmanagement;
  using { managed } from '@sap/cds/common';
-//Test Application Julian.
+ //Test Application Julian TWO.
 
 
 
